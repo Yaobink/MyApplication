@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/backgroundchanger"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#242">
+
+
+    <TextView
+        android:id="@+id/book_name"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textAlignment="center"
+        android:textSize="35dp"
+
+
+        />
+</LinearLayout>
